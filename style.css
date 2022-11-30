@@ -1,0 +1,27 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.card-header {
+    background-color: darkkhaki;
+}
+
+.container {
+    width: 1900px;
+    height: 600px;
+}
+
+.btn-info {
+    background-color: blueviolet;
+    border: 3px dashed violet;
+}
+
+button:hover {
+    background-color: yellowgreen;
+}
+
+#orderNumberField {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
